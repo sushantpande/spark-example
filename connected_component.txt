@@ -1,0 +1,1011 @@
+|alejandra.chavez@...|            0|
+|cramer@cadvision.com|            0|
+|dawn.doucet@enron...|            0|
+|h..douglas@enron.com|            0|
+|   pla@marval.com.ar|            0|
+|donald.robinson@e...|            0|
+|marketing@welcome...|            0|
+|toby.kuehl@enron.com|            0|
+|amy.hood@us.brann...|            0|
+|raislerk@sullcrom...|            0|
+|   vkaminski@aol.com|            0|
+|nmanne@susmangodf...|            0|
+|eric.linder@enron...|            0|
+|ann.schmidt@enron...|            0|
+|postmaster@fullen...|            0|
+|lee.papayoti@enro...|            0|
+|ellen.clardy@ipgd...|            0|
+|julia.white@enron...|            0|
+|patrick.ryder@enr...|            0|
+|neil.davies@enron...|            0|
+|w..delainey@enron...|            0|
+|brad.mckay@enron.com|            0|
+|robert.poole@atmo...|            0|
+|kevin.wellenius@f...|            0|
+|judy.townsend@enr...|            0|
+|enronanywhere@enr...|            0|
+|lorna.brennan@enr...|            0|
+|gloria.solis@enro...|            0|
+|outlook.team@enro...|            0|
+|chris.greaney@enr...|            0|
+|  m..smith@enron.com|            0|
+|john.blaylock@enr...|            0|
+|michael.morris@en...|            0|
+|fran.fagan@enron.com|            0|
+|andrew.champion@e...|            0|
+|jinsung.myung@enr...|            0|
+| carol.st.@enron.com|            0|
+|nicole.mendez@enr...|            0|
+|b..sanders@enron.com|            0|
+|jennifer.velasco@...|            0|
+|       eua@coair.com|            0|
+|  ying.liu@enron.com|            0|
+|katherine.brown@e...|            0|
+|holly.keiser@enro...|            0|
+|shannon.mcpearson...|            0|
+|katryna.murtagh@m...|            0|
+|paul.burgener@enr...|            0|
+|  frank.de@enron.com|            0|
+|rick.loveless@enr...|            0|
+|  jim.meyn@enron.com|            0|
+|peggy.a.kostial@a...|            0|
+|josie.castrejana@...|            0|
+|justin.boyd@enron...|            0|
+|lisa.petruszka@en...|            0|
+|  k..allen@enron.com|            0|
+|danny.mccarty@enr...|            0|
+|customerservice.1...|            0|
+|cindy.olson@enron...|            0|
+|cyndie.balfour-fl...|            0|
+|heidi.griffith@en...|            0|
+|   jbass@stdauto.com|            0|
+|betty.coneway@enr...|            0|
+|jeffrey.jackson@e...|            0|
+|janine.juggins@en...|            0|
+|    l..gay@enron.com|            0|
+|lorraine.lindberg...|            0|
+|david.grant@enron...|            0|
+|bradylaw@pacbell.net|            0|
+|crystal.hyde@enro...|            0|
+|kathryn.schultea@...|            0|
+|vince.kaminski@en...|            0|
+|r-4-65021-302894-...|            0|
+|alma.carrillo@enr...|            0|
+|enron.expertfinde...|            0|
+|    howton.k@ghc.org|            0|
+|michelle.lokay@en...|            0|
+|   tom.may@enron.com|            0|
+|larry.garrett@enr...|            0|
+|regina.blackshear...|            0|
+|lacrecia.davenpor...|            0|
+|louis.dicarlo@enr...|            0|
+|harry.kingerski@e...|            0|
+|christian.lebroc@...|            0|
+|richard.hanagriff...|            0|
+|rich.jolly@enron.com|            0|
+| paige.cox@enron.com|            0|
+|      scottk@cqg.com|            0|
+|philippe.bibi@enr...|            0|
+|lara.leibman@enro...|            0|
+|charles.weldon@en...|            0|
+|mbtos@tozzini.com.br|            0|
+|james.scribner@en...|            0|
+|mike.carson@enron...|            0|
+|ted.murphy@enron.com|            0|
+|vvalencia@edelman...|            0|
+|peter.bennett@enr...|            0|
+|richard.j.moller@...|            0|
+|russell.murrell@e...|            0|
+|  perfmgmt@enron.com|            0|
+|kevin.jolly@enron...|            0|
+|jeffery.fawcett@e...|            0|
+|tom.alonso@enron.com|            0|
+|scott.palmer@enro...|            0|
+|ann.murphy@enron.com|            0|
+|r..harrington@enr...|            0|
+|sberry@susmangodf...|            0|
+|kelly.johnson@enr...|            0|
+|      gouinmd@nu.com|            0|
+|tracy.greene@enro...|            0|
+|chris.walker@enro...|            0|
+|patrick.hanse@enr...|            0|
+|rajesh.chettiar@e...|            0|
+|dennis.alters@enr...|            0|
+| jeff.king@enron.com|            0|
+|    ed.iii@enron.com|            0|
+|rrussell@fontheim...|            0|
+|rlmatt01@hotmail.com|            0|
+|brad.richter@enro...|            0|
+|   kirk@cea.sfex.com|            0|
+|marcia.linton@enr...|            0|
+|aftab.saleem@enro...|            0|
+|jason.rios@enron.com|            0|
+|robert.badeer@enr...|            0|
+|chad.gronvold@owe...|            0|
+|erwin.landivar@en...|            0|
+|stanley.cocke@enr...|            0|
+|onepass_1221@airm...|            0|
+|john.house@enron.com|            0|
+| lysa.akin@enron.com|            0|
+|sara.shackleton@e...|            0|
+|  oasissvcs@apsc.com|            0|
+|stuart.staley@enr...|            0|
+|elizabeth.lay@enr...|            0|
+|david.steiner@enr...|            0|
+| jgallagher@epsa.org|            0|
+| jae.black@enron.com|            0|
+|r..shepperd@enron...|            0|
+|billy.lemmons@enr...|            0|
+|vladimir.gorny@en...|            0|
+|daniel.muschar@en...|            0|
+|mark.schroeder@en...|            0|
+|mike.kelly@enron.com|            0|
+|eric.wardle@enron...|            0|
+|clifford.bourgeoi...|            0|
+|john.llodra@enron...|            0|
+|kim.melodick@enro...|            0|
+|sally.beck@enron.com|            0|
+|stephen.burns@enr...|            0|
+|phil.demoes@enron...|            0|
+| a..hughes@enron.com|            0|
+|rmoseley@houston....|            0|
+|chad.landry@enron...|            0|
+|tammie.schoppe@en...|            0|
+|errol.mclaughlin@...|            0|
+|joseph.f.reid@acc...|            0|
+|donna.scott@enron...|            0|
+| j..legler@enron.com|            0|
+|scott.dozier@enro...|            0|
+|pushkar.shahi@enr...|            0|
+|bradley.diebner@e...|            0|
+|george.fastuca@en...|            0|
+|steven.merris@enr...|            0|
+|frank.billington@...|            0|
+| dina.snow@enron.com|            0|
+|pete.davis@enron.com|            0|
+|amr.ibrahim@enron...|            0|
+|misha.siegel@enro...|            0|
+|wendy.king@enron.com|            0|
+|brenda.whitehead@...|            0|
+|richard.shapiro@e...|            0|
+|registrations@new...|            0|
+|veronica.gonzalez...|            0|
+|julie.flahaven@en...|            0|
+|anita.luong@enron...|            0|
+|michele.winckowsk...|            0|
+|  ktracey111@aol.com|            0|
+|janice.moore@enro...|            0|
+|karl.peterson@hot...|            0|
+|michael.bodnar@en...|            0|
+|       sjacob@gpc.ca|            0|
+|lisa.hesse@enron.com|            0|
+|mark.h@mail.utexa...|            0|
+|sunita.katyal@enr...|            0|
+| bob.klein@enron.com|            0|
+|murli.nagwani@enr...|            0|
+|      jtp497@rcn.com|            0|
+|debra.perlingiere...|            0|
+|kent.miller@enron...|            0|
+|wendy.conwell@enr...|            0|
+|nytdirect@nytimes...|            0|
+|iol_administrator...|            0|
+|patrice.mims@enro...|            0|
+|gina.corteselli@e...|            0|
+|ina.rangel@enron.com|            0|
+|bwanarol@hotmail.com|            0|
+|dorothy.woster@en...|            0|
+|matthew.gockerman...|            0|
+|michael.olsen@enr...|            0|
+| iris.mack@enron.com|            0|
+|darla.saucier@enr...|            0|
+|gwyn.koepke@enron...|            0|
+|judy.walters@enro...|            0|
+|marketplace@lists...|            0|
+|brian.heinrich@en...|            0|
+|     hrgim@enron.com|            0|
+|anne.duncan@enron...|            0|
+|adam.johnson@enro...|            0|
+|jefferson.sorenso...|            0|
+|     arora@enron.com|            0|
+|   john.oh@enron.com|            0|
+|ken@kdscommunicat...|            0|
+|chance.rabon@enro...|            0|
+|carol.north@enron...|            0|
+|intelligentxmailb...|            0|
+|dawn.kenne@enron.com|            0|
+|jeffrey.mcmahon@e...|            0|
+|luiz.maurer@enron...|            0|
+|    ellen@tca-us.com|            0|
+|gary.choquette@en...|            0|
+|laura.luce@enron.com|            0|
+|lillian.villarrea...|            0|
+|brent.price@enron...|            0|
+|kayne.coulter@enr...|            0|
+|phil.polsky@enron...|            0|
+|john.shoobridge@e...|            0|
+|tori.kuykendall@e...|            0|
+|jeremy.wong@enron...|            0|
+|bobbi.kilburn@vyn...|            0|
+|powerprices@amere...|            0|
+|executiveadvice@a...|            0|
+|marie.heard@enron...|            0|
+|james.bannantine@...|            0|
+|kpeterso@epelectr...|            0|
+|virginia.thompson...|            0|
+|matthew.lenhart@e...|            0|
+| ron.baker@enron.com|            0|
+|   orders@amazon.com|            0|
+|kortney.brown@enr...|            0|
+| min.zheng@enron.com|            0|
+|nancy.hernandez@e...|            0|
+|james.carr@enron.com|            0|
+|laura.harder@enro...|            0|
+|ban.sharma@enron.com|            0|
+|jennifer.stewart@...|            0|
+|glynda.becker@mai...|            0|
+|bob.shults@enron.com|            0|
+|daniel.diamond@en...|            0|
+|hcameron@uclink.b...|            0|
+|sharon.tanner@enr...|            0|
+| lee.huber@enron.com|            0|
+|fgiffels@hgp-inc.com|            0|
+|kevinv@mcnenergy.com|            0|
+|fran.mayes@enron.com|            0|
+|theresa.hess@enro...|            0|
+|scott.tanner@true...|            0|
+|larry.pavlou@enro...|            0|
+|     scano@velaw.com|            0|
+| nmaralit@sempra.com|            0|
+|hilda.bourgeois-g...|            0|
+|nicole.laporte@en...|            0|
+|sean.crandall@enr...|            0|
+|phillip.love@enro...|            0|
+|randal.maffett@en...|            0|
+|  lawyer4428@aol.com|            0|
+|john.lavorato@enr...|            0|
+|theresa.vos@enron...|            0|
+|lance.jameson@enr...|            0|
+|danielle.jaussaud...|            0|
+|greg.wolfe@enron.com|            0|
+|corry.bentley@enr...|            0|
+|sachin.gandhi@enr...|            0|
+|david.duran@enron...|            0|
+|  lynemartin@msn.com|            0|
+|greg.whalley@enro...|            0|
+|reliantenergy@ebi...|            0|
+|darin.schmidt@enr...|            0|
+|michelle.blaine@e...|            0|
+|nella.cappelletto...|            0|
+|mark.koenig@enron...|            0|
+|weather@inbox.wea...|            0|
+|tori.wells@enron.com|            0|
+|christopher.watts...|            0|
+|        pgg4@pge.com|            0|
+|marnie.lamb@enron...|            0|
+|bhutt@ankarcapita...|            0|
+|karen.heathman@en...|            0|
+|stuart.zisman@enr...|            0|
+|e..haedicke@enron...|            0|
+|osman.sezgen@enro...|            0|
+|larry.ciscon@enro...|            0|
+|janet.wallis@enro...|            0|
+|bachelor.conf.@en...|            0|
+|louise.kitchen@en...|            0|
+|matt.smith@enron.com|            0|
+|preston.ochsner@e...|            0|
+|vladi.pimenov@enr...|            0|
+|lamar.frazier@enr...|            0|
+|  denis.tu@enron.com|            0|
+|ruth.concannon@en...|            0|
+|jim.coffey@enron.com|            0|
+|lindon.chiu@enron...|            0|
+|richard.lydecker@...|            0|
+|stacy.dickson@enr...|            0|
+|john.shelk@enron.com|            0|
+|russ.severson@enr...|            0|
+|im-urlaub@t-onlin...|            0|
+|magdelena.cruz@en...|            0|
+|  amy.rios@enron.com|            0|
+|marla.barnard@enr...|            0|
+|martha.janousek@e...|            0|
+|fernley.dyson@enr...|            0|
+|donald.herrick@en...|            0|
+|julie.kearney@enr...|            0|
+|alhamd.alkhayat@e...|            0|
+|rosalyn.lum@enron...|            0|
+|alisha.mahabir@en...|            0|
+| joehillings@aol.com|            0|
+|mark.greenberg@en...|            0|
+|frank.sayre@enron...|            0|
+|gloria.ogenyi@enr...|            0|
+|jeff.johnson@enro...|            0|
+|matthias.lee@enro...|            0|
+|  e..crady@enron.com|            0|
+|david.maxwell@enr...|            0|
+|amanda.huble@enro...|            0|
+|  l..kelly@enron.com|            0|
+|     ketchekl@bp.com|            0|
+|enron_update@conc...|            0|
+|todd.busby@enron.com|            0|
+|trey.comiskey@enr...|            0|
+|susan.mara@enron.com|            0|
+|jay.fitzgerald@en...|            0|
+|ingrid.immer@will...|            0|
+|customerservice@i...|            0|
+|lisa.mellencamp@e...|            0|
+|  jim.piro@enron.com|            0|
+|sneal4@houston.rr...|            0|
+|  tom.rice@enron.com|            0|
+|marie.hejka@enron...|            0|
+|bruce.lundstrom@e...|            0|
+|scott.reblitz@enr...|            0|
+|jane.joyce@enron.com|            0|
+|mike.grigsby@enro...|            0|
+|mheffner@carrfut.com|            0|
+|amanda.curless@en...|            0|
+|ryan.slinger@enro...|            0|
+|ecdirect-daily@ma...|            0|
+|kay.threet@enron.com|            0|
+|mike.croucher@enr...|            0|
+|edward.grubb@cont...|            0|
+|julie.clyatt@enro...|            0|
+|sara.davidson@enr...|            0|
+|jeffrey.shankman@...|            0|
+| keith_emery@fpl.com|            0|
+|derek.wilson@enro...|            0|
+|c..gossett@enron.com|            0|
+|randy.young@enron...|            0|
+| ryan.watt@enron.com|            0|
+|madeleine.cardoso...|            0|
+|onvacation@email....|            0|
+|joe.quenet@enron.com|            0|
+|travieso74@hotmai...|            0|
+|rita.wynne@enron.com|            0|
+|jeffrey.porter@en...|            0|
+|   j..kean@enron.com|            0|
+|vikram.singh@enro...|            0|
+|greg.couch@enron.com|            0|
+|mark.woita@fhlbto...|            0|
+|kay.miller@enron.com|            0|
+|scott.sefton@enro...|            0|
+|julian.poole@enro...|            0|
+|susie.wilson@enro...|            0|
+|l..nicolay@enron.com|            0|
+|kevin.hyatt@enron...|            0|
+|scott.healy@enron...|            0|
+|michele.raque@enr...|            0|
+|john.sorrells@enr...|            0|
+| tk.lohman@enron.com|            0|
+|claudia.brun@enro...|            0|
+|william.bradford@...|            0|
+|jennifer.nguyen@e...|            0|
+|   davidlu@nepco.com|            0|
+| m..presto@enron.com|            0|
+|mark.kinkead@enro...|            0|
+|kevin.brady@enron...|            0|
+|esther.buckley@en...|            0|
+|paul.puchot@enron...|            0|
+|ray.stelly@enron.com|            0|
+|dvd@columbiahouse...|            0|
+| l..denton@enron.com|            0|
+|morela.hernandez@...|            0|
+|tom.shelton@enron...|            0|
+|philip.polsky@enr...|            0|
+|reese.trejo@enron...|            0|
+|credit <.williams...|            0|
+|sarah.gregory@enr...|            0|
+|  zimin.lu@enron.com|            0|
+|mary.clark@enron.com|            0|
+|caroline.abramo@e...|            0|
+|jls@fullenweider.com|            0|
+|marc.janichen@enr...|            0|
+|james.bruce@enron...|            0|
+|jennifer.k.dickin...|            0|
+|  d..hogan@enron.com|            0|
+|tyrell.harrison@e...|            0|
+|monique.sanchez@e...|            0|
+|j..kaminski@enron...|            0|
+|michael.miller@en...|            0|
+|scott@darkwing.uo...|            0|
+|funnymoney.10@rep...|            0|
+|kate.joslyn@enron...|            0|
+|william.gang@enro...|            0|
+|fraisy.george@enr...|            0|
+|edith.cross@enron...|            0|
+|hope.vargas@enron...|            0|
+|paul.cherry@enron...|            0|
+| j..edison@enron.com|            0|
+|george.mcclellan@...|            0|
+|greg.piper@enron.com|            0|
+|kelli.little@enro...|            0|
+|cathy.phillips@en...|            0|
+|richard.coathup@e...|            0|
+|samira.ravagnani@...|            0|
+|monica.hwang@enro...|            0|
+|amy.fabian@enron.com|            0|
+|bob.chandler@enro...|            0|
+|robert.hawkins@ci...|            0|
+|kenneth.thibodeau...|            0|
+|epurtzki@deloitte.ca|            0|
+|elaine.concklin@e...|            0|
+|af@tfts.tozzini.c...|            0|
+|william.smith@enr...|            0|
+|vcferraz@elektro....|            0|
+|patrick.conner@en...|            0|
+| jholker@adaytum.com|            0|
+|steve.walton@enro...|            0|
+|john.boguslawski@...|            0|
+|pgraff@reliantene...|            0|
+|barton.clark@enro...|            0|
+|marcus.nettelton@...|            0|
+|kay.chapman@enron...|            0|
+|clint.dean@enron.com|            0|
+|    baddream@msn.com|            0|
+|richard.causey@en...|            0|
+|    jking100@aol.com|            0|
+|vivian.nguyen@enr...|            0|
+|    amurray@llgm.com|            0|
+|  rob.cone@enron.com|            0|
+|michele.word@enro...|            0|
+|commerce_opspagem...|            0|
+|claudia.clark@enr...|            0|
+|emalow@earthlink.net|            0|
+|  markm@cajunusa.com|            0|
+|kori.loibl@enron.com|            0|
+|heidi.mason@enron...|            0|
+|john.massey@enron...|            0|
+|heather.choate@en...|            0|
+|darren.delage@enr...|            0|
+|michael.ratner@en...|            0|
+|customerservice@t...|            0|
+|chuck.kaniuka@ipg...|            0|
+|lena.kasbekar@enr...|            0|
+|   a..hope@enron.com|            0|
+|scott.sitter@enro...|            0|
+|billie.akhave@enr...|            0|
+|tamara.black@enro...|            0|
+|richard.burchfiel...|            0|
+| chet_fenner@bmc.com|            0|
+|robyn.zivic@enron...|            0|
+|dave.fuller@enron...|            0|
+|richard.deming@en...|            0|
+|tonysharp@uswestm...|            0|
+|scott.connelly@mi...|            0|
+| lucy.king@enron.com|            0|
+|paul.radous@enron...|            0|
+|craig.dean@enron.com|            0|
+|gracie.presas@enr...|            0|
+|james.keller@enro...|            0|
+|janette.elbertson...|            0|
+|frank.hayden@enro...|            0|
+|christie.patrick@...|            0|
+|harry.arora@enron...|            0|
+|colin.tonks@enron...|            0|
+|val.generes@accen...|            0|
+|mmccall@sempratra...|            0|
+|brad.nebergall@en...|            0|
+|veronica.espinoza...|            0|
+|frank.carriere@en...|            0|
+|wade.stubblefield...|            0|
+|scott.palmer@exod...|            0|
+|jaki_l._hawkins@j...|            0|
+|neilanderson@list...|            0|
+| dan.lyons@enron.com|            0|
+|jesse.gonzalez@en...|            0|
+|troy.black@enron.com|            0|
+|julie.gomez@enron...|            0|
+|rob.milnthorp@enr...|            0|
+|     trisha@ncpa.com|            0|
+|samantha.law@enro...|            0|
+|clay.harris@enron...|            0|
+|   blafuze@velaw.com|            0|
+|kenneth.d'silva@e...|            0|
+|brett.wiggs@enron...|            0|
+|judy.hernandez@en...|            0|
+|carol.clair@enron...|            0|
+|jennifer.thome@en...|            0|
+|     bsims@velaw.com|            0|
+|maureen.mcvicker@...|            0|
+|debra.bailey@enro...|            0|
+|liz.taylor@enron.com|            0|
+|cooper.richey@enr...|            0|
+|exchange.administ...|            0|
+|gary.waxman@enron...|            0|
+|chantelle.villanu...|            0|
+|butch.russell@enr...|            0|
+|jennifer.miller@b...|            0|
+|terri.miller@enro...|            0|
+|angel.flight.sout...|            0|
+|gberry@solutionsc...|            0|
+|  travel@expedia.com|            0|
+|angie.collins@enr...|            0|
+|mark.knippa@enron...|            0|
+|ampaez@earthlink.net|            0|
+|stacey.white@enro...|            0|
+|chip.schneider@en...|            0|
+|kenneth.lay@enron...|            0|
+|les.webber@enron.com|            0|
+|mary.ruffer@enron...|            0|
+|lex.carroll@enron...|            0|
+|team.san-juan-lap...|            0|
+|jane.tholt@enron.com|            0|
+|paul.schiavone@en...|            0|
+|    l..day@enron.com|            0|
+|sandeep.kohli@enr...|            0|
+|andy.zipper@enron...|            0|
+|   cthiele@velaw.com|            0|
+|d..steffes@enron.com|            0|
+|    ipayit@enron.com|            0|
+|larry.hunter@enro...|            0|
+|george.denos@neg....|            0|
+|andrea.calo@enron...|            0|
+|lola.willis@enron...|            0|
+|ed.mcmichael@enro...|            0|
+|sarah-joy.hunter@...|            0|
+|kathy.mcmahon@enr...|            0|
+|norman.levine@enr...|            0|
+|s..theriot@enron.com|            0|
+|patti.thompson@en...|            0|
+|marian.bryant@enr...|            0|
+|chris.long@enron.com|            0|
+|michael.terraso@e...|            0|
+|barbara.martinez@...|            0|
+|muthukumar.krishn...|            0|
+|kam.keiser@enron.com|            0|
+|  kalmeida@caiso.com|            0|
+|kristin.walsh@enr...|            0|
+|glenn.rogers@enro...|            0|
+|steve.richman@enr...|            0|
+|peter.keavey@enro...|            0|
+|   steffes@enron.com|            0|
+|lisa.sutton@enron...|            0|
+|  v.weldon@enron.com|            0|
+|sunjay.arya@enron...|            0|
+|richard.amabile@e...|            0|
+|   dbaughm@yahoo.com|            0|
+|melissa.jones@enr...|            0|
+|jeanne.wukasch@en...|            0|
+|vincent.strohmeye...|            0|
+|robert.eickenroht...|            0|
+|kimberly.banner@e...|            0|
+|gloria.barkowsky@...|            0|
+|  j..noske@enron.com|            0|
+|clane@psc.state.w...|            0|
+|stacey.bolton@enr...|            0|
+| jenny.rub@enron.com|            0|
+|orders@imagestati...|            0|
+|juan.hernandez@en...|            0|
+|boying@ci.long-be...|            0|
+|adrianne.engler@e...|            0|
+|christopher.smith...|            0|
+|shari_stack@relia...|            0|
+| homer.lin@enron.com|            0|
+|cuttings.enron@en...|            0|
+|matt.harris@enron...|            0|
+|stevecavalier@ema...|            0|
+|johnny.palmer@enr...|            0|
+|jerry.peters@enro...|            0|
+|  jbennett@gmssr.com|            0|
+|lacye.trevino@enr...|            0|
+|f..campbell@enron...|            0|
+|    pweems@kslaw.com|            0|
+|jeff.dasovich@enr...|            0|
+|max.sonnonstine@e...|            0|
+|     hallisey@wt.net|            0|
+|brian.kerrigan@en...|            0|
+| lt_truong@yahoo.com|            0|
+|laurel.bolt@enron...|            0|
+|vernon.mercaldo@e...|            0|
+|c..koehler@enron.com|            0|
+|chris.mahoney@enr...|            0|
+|mark.mcconnell@en...|            0|
+|john_russell@dell...|            0|
+| anne.bike@enron.com|            0|
+|jean.ryall@enron.com|            0|
+| gary.peng@enron.com|            0|
+|ect.security@enro...|            0|
+|stouchstone@natso...|            2|
+|outlook-migration...|   8589934598|
+|  jhodge7895@aol.com|   8589934601|
+|david.briggs@xcel...|   8589934604|
+|enron-admin@fsdda...|  17179869186|
+|     sistone@bpa.gov|  17179869188|
+|  orders@ashford.com|  25769803780|
+|editor-sender@ama...|  34359738368|
+| ctetrault@velaw.com|  34359738376|
+|harrysarora@yahoo...|  42949672965|
+|alden.alleman@elp...|  60129542147|
+|     scoop@money.net|  60129542151|
+|k..heathman@enron...|  68719476737|
+|robin_zaleski@iro...|  68719476740|
+|kirti.patel@enron...|  68719476743|
+|emmanuel.mangin@e...|  77309411341|
+|customer.care@dyn...|  85899345924|
+|sprenger@alumni.u...|  94489280522|
+|cmastros@unterber...|  94489280525|
+|       isc@enron.com| 103079215107|
+|rebeccadietz@hotm...| 103079215109|
+|martin.kurtovich@...| 103079215110|
+|jennifer.prewit@i...| 103079215112|
+|kreinbring@yahoo.com| 103079215113|
+|alexandre.bueno@e...| 103079215114|
+| denny@dsourceva.com| 111669149698|
+|    rpickel@isda.org| 111669149701|
+|karen.cutler@enro...| 111669149703|
+|reservations@marr...| 120259084290|
+|kay.quigley@enron...| 120259084293|
+|project.team@enro...| 128849018895|
+|jimmy_johnston@ma...| 137438953475|
+|rob_tom@freenet.c...| 137438953476|
+|       calxa@aol.com| 137438953476|
+|  pbukowski@acex.com| 137438953480|
+|dennis.sidbury@pr...| 137438953480|
+|christianquote-ht...| 146028888066|
+|beverley.ashcroft...| 146028888070|
+|   dfuller@caiso.com| 154618822656|
+|bounce-abcnews-l-...| 154618822663|
+|ect.announcement@...| 171798691850|
+|ceg_ir-rpt.um.a.2...| 171798691854|
+|denise.almoina@en...| 171798691856|
+| james_sikes@cfr.org| 180388626442|
+|postoffice@bluemo...| 188978561030|
+|    tdkelley@ev1.net| 197568495619|
+|michael.kushner@e...| 206158430208|
+|     pgerman@ong.com| 214748364802|
+|       mkm@enron.com| 223338299394|
+|andrea.williams@e...| 223338299398|
+| info@hotelcasci.com| 240518168579|
+|sexxxmail@list.em...| 240518168585|
+|  jcfleury@nyseg.com| 249108103173|
+|     pkginfo@ups.com| 249108103177|
+|service@mail.ener...| 257698037761|
+|      njenks@eei.org| 257698037764|
+|     schwarfa@bp.com| 257698037766|
+|yeomansw@niagaram...| 257698037772|
+|courtney.votaw@en...| 266287972364|
+|stefanieverkauf@a...| 274877906948|
+|steve@virtual-wor...| 274877906956|
+|support@sportslin...| 283467841537|
+|roger.swenson@pro...| 283467841543|
+|rcdouglas@duke-en...| 283467841545|
+|mkhenderson@duke-...| 283467841545|
+|customercare@matc...| 283467841547|
+|office.chairman@e...| 292057776129|
+|jimboman@bigfoot.com| 292057776131|
+|    sryerson@nui.com| 292057776137|
+|    andy@kalotay.com| 292057776139|
+|gfoster@antigenic...| 292057776144|
+|    lmartin@epsa.org| 292057776145|
+|morin@usourceonli...| 300647710726|
+|officeofthechairm...| 309237645312|
+|michael.tully@enr...| 309237645314|
+|accthelp@cooltrav...| 309237645315|
+|  antiqstyle@aol.com| 317827579905|
+|       alex@pira.com| 317827579911|
+|jennifer.h.staton...| 317827579915|
+|  dgarland@nymex.com| 326417514499|
+| marketing@nymex.com| 326417514499|
+|bounce-otcjournal...| 326417514504|
+|sambuca@sambucaja...| 335007449092|
+|    sandyteb@aol.com| 335007449095|
+|jimbomania@hotmai...| 343597383688|
+|announcements.ubs...| 343597383692|
+|michael.herman@en...| 352187318272|
+|     sudpa@wenet.net| 352187318278|
+|     dcasse@whwg.com| 352187318280|
+|    foothi19@idt.net| 352187318286|
+|furie-lesser@rock...| 360777252864|
+|     tysongs@aol.com| 360777252873|
+|patricia.wells@ei...| 369367187456|
+|sivy@listserv.pat...| 369367187457|
+| dean.perry@nwpp.org| 369367187460|
+| malenfant@bipac.org| 369367187461|
+|    krobb@hunton.com| 369367187462|
+|market_relations@...| 369367187462|
+|       rumor@gte.net| 377957122052|
+|unsubscribe-i@net...| 386547056640|
+|    grichar@smud.org| 386547056642|
+|bounce-app-ippexe...| 386547056646|
+|exclusive_offers@...| 395136991235|
+|bhash1@earthlink.net| 395136991237|
+|tickets-email@ons...| 403726925825|
+|distribution@caem...| 412316860421|
+|xzhang@haas.berke...| 412316860423|
+|scsonoptions@attg...| 420906795009|
+|coloretiada2019@n...| 429496729600|
+|survey@trafficsch...| 438086664197|
+| mbain@mail.bokf.com| 438086664200|
+| nhenson@houston.org| 438086664201|
+|rvujtech@carrfut.com| 438086664202|
+|carrfuturesenergy...| 438086664202|
+|  f..moran@enron.com| 446676598789|
+|wincash@play4keep...| 446676598790|
+|kcurry@bracepatt.com| 455266533382|
+|larry.hochberg@ny...| 463856467969|
+|    mangin@enron.com| 472446402562|
+|      ddiehl@nui.com| 472446402563|
+|s-news-owner@list...| 472446402566|
+|database.au@terrm...| 481036337155|
+|anthony.carroll@a...| 481036337159|
+|djenergy@dowjones...| 481036337160|
+|      irene@m-ul.com| 489626271744|
+|marketopsrealtime...| 489626271748|
+|john.baker@daniel...| 515396075520|
+|   edetective@gmx.at| 541165879296|
+|kelly_p_davis@yah...| 541165879299|
+|support@tenkwizar...| 541165879300|
+|jennifer.lowry@en...| 541165879302|
+|rtackett@abacuste...| 549755813889|
+|david.morris@lehm...| 549755813890|
+|jmenconi@adv-eng-...| 549755813895|
+|chairman.ken@enro...| 549755813896|
+|   rbowers@nyiso.com| 575525617666|
+|    hduncan@caem.org| 575525617674|
+|     jniesch@gwdg.de| 584115552260|
+|jhester1@satx.rr.com| 592705486851|
+|atkinson@whytecli...| 592705486853|
+|marilene.listrom@...| 592705486856|
+|bnpparibascommodi...| 601295421446|
+|      jwdean@aol.com| 601295421447|
+|alert@venturewire...| 609885356032|
+|bradley@morrownet...| 609885356036|
+|    dkdavis@monm.edu| 609885356038|
+|rumaldo.lopez@enr...| 609885356039|
+|michael.demott@ny...| 609885356040|
+|tetoffensive@mail...| 618475290627|
+|stephanie.jett@en...| 627065225225|
+|update@barescapit...| 627065225226|
+|events@eyeforener...| 635655159808|
+| mezulis@hotmail.com| 635655159810|
+|  gordont@hawaii.edu| 635655159814|
+|owner-e204-1@haas...| 644245094408|
+|crawford.284@osu.edu| 644245094411|
+|     laallen@aep.com| 652835028999|
+|announcements.ets...| 661424963592|
+|jparks@tnrcc.stat...| 670014898176|
+|angie.lentz@enron...| 670014898178|
+|  feedback@intcx.com| 670014898180|
+|james.gillespie@r...| 678604832777|
+|sales@tejastoyota...| 687194767366|
+|houstontexans@new...| 687194767367|
+|issuealert@scient...| 687194767371|
+|support@cleonline...| 695784701954|
+|breakingnews@mail...| 695784701955|
+|denise.williams@e...| 695784701961|
+|mark.fisher@enron...| 695784701961|
+|   ckooken@xonex.com| 695784701962|
+|announcement.ees@...| 695784701965|
+| deolande@srpnet.com| 712964571140|
+|     cwlipke@czn.com| 712964571145|
+|reports@reedwasde...| 721554505732|
+|paless@bellsouth.net| 730144440322|
+|     melf116@aol.com| 730144440328|
+|maurice.gilbert@e...| 738734374913|
+|isc.hotline@enron...| 747324309509|
+|jim.white@las-cru...| 764504178690|
+|jon_topolski@msn.com| 773094113280|
+|charee.messerli@n...| 773094113282|
+|paul.rice@pacific...| 773094113282|
+| billstclair@msn.com| 790273982465|
+|pglaessner@enerme...| 790273982467|
+|navigator@nisourc...| 790273982473|
+|     enron84@aol.com| 798863917056|
+|philip.h.carver@s...| 798863917061|
+|laine.powell@enro...| 798863917063|
+|t_carpenter@br-in...| 798863917069|
+|karlyn.clifton@us...| 807453851648|
+|jeff.leath@enron.com| 807453851650|
+|pclevenger@smurfi...| 824633720846|
+|news@eyeforenergy...| 824633720848|
+|       mmfoss@uh.edu| 841813590025|
+|neil.job@ihsenerg...| 841813590031|
+|invision@invision...| 850403524616|
+|dassistance@ingaa...| 858993459202|
+|people@venturewir...| 858993459206|
+|    ibuyit@enron.com| 867583393796|
+|lawrencegtapp@ive...| 867583393800|
+| les@lacimagroup.com| 867583393802|
+|msingh@library.be...| 876173328384|
+|  rykomai@sempra.com| 884763262977|
+|     mullenc@pjm.com| 893353197571|
+|zionette.vincent@...| 893353197572|
+|chairman.office@e...| 893353197573|
+|jblatchford@caiso...| 901943132164|
+|slc.krsched@willi...| 901943132165|
+|      mc@milchev.com| 901943132168|
+|    cguarino@dow.com| 901943132171|
+|jshneer@interlog.com| 910533066755|
+|bounce-news-93265...| 910533066757|
+|  s..white@enron.com| 919123001344|
+|  waterbugz6@aol.com| 927712935936|
+|  mrwood@beachrd.com| 927712935938|
+|joan.veselack@enr...| 936302870531|
+|scslooptions@attg...| 936302870533|
+|ets.announcement@...| 944892805124|
+|george.ellis@amer...| 944892805130|
+|breakingnews@cnn.com| 944892805134|
+|steinep@uni-muens...| 953482739712|
+|  dbailey@sempra.com| 953482739718|
+| davidpsmith@att.net| 953482739719|
+|lana.belnoske@nes...| 953482739720|
+|        dwa3@pge.com| 962072674304|
+|microsoft.wizard@...| 962072674307|
+|enron.mailsweeper...| 962072674311|
+|ssmgranmayeh@msn.com| 962072674313|
+|glenda.rodriguez@...| 970662608899|
+|vickistorey@yahoo...| 970662608904|
+|jbrewer.leatherce...| 979252543488|
+|portfolio@mworld.com| 979252543494|
+| deals@bestfares.com| 987842478084|
+|kyle_etter@hotmai...| 987842478090|
+|jack.falconi@guar...| 996432412673|
+| rrich@bracepatt.com|1005022347265|
+|trainingorders@ve...|1013612281861|
+|   joebeth@flash.net|1013612281863|
+|kdecell@gassupply...|1022202216448|
+|inbox@messaging.a...|1022202216452|
+|      custom@ym1.net|1022202216457|
+|special-offers-he...|1022202216460|
+|donna.vaughn@enro...|1030792151040|
+|center.ets@enron.com|1030792151041|
+|matt20@wharton.up...|1039382085634|
+|psellers@telephia...|1039382085640|
+|pepoulse@smtpgate...|1047972020224|
+| slombino@prebon.com|1047972020225|
+| archiving@enron.com|1047972020228|
+|legal <.t@enron.com>|1047972020229|
+|general.announcem...|1047972020230|
+|owner-f99evmba@ha...|1056561954820|
+|   sccobb@srpnet.com|1056561954823|
+|ameritrade_020717...|1065151889408|
+|abcnewsnow-editor...|1065151889409|
+|nationalbrands@pr...|1073741824007|
+|karen.davis@enron...|1073741824009|
+|administration.en...|1073741824010|
+|berk@haas.berkele...|1099511627778|
+|rwrigglesworth@pe...|1099511627786|
+|     mjones7@txu.com|1108101562371|
+| info@designzine.com|1108101562374|
+|lana.moore@nesane...|1116691496965|
+|pmadpr@worldnet.a...|1125281431552|
+| lucky@icelandair.is|1133871366144|
+|caschwalbe@hotmai...|1133871366150|
+|  g..rigby@enron.com|1142461300737|
+|        cxm2@pge.com|1142461300740|
+|juli.salvagio@enr...|1142461300743|
+|amy.chandler@enro...|1142461300744|
+|shanner.vitoltvl@...|1142461300746|
+|fhlbnebraska@uswe...|1142461300747|
+|akimball@bracepat...|1151051235342|
+|levine@haas.berke...|1159641169922|
+|kkupiecki@arpartn...|1159641169933|
+|  litebytz@enron.com|1168231104514|
+|    hillis@enron.com|1168231104516|
+|aarbisser@kayesch...|1176821039105|
+|fcalvillo@cmgn.co...|1176821039109|
+|enron.announcemen...|1176821039111|
+|hemery@firstunion...|1194000908289|
+|      ebiz@enron.com|1194000908292|
+|info@futuresindus...|1202590842891|
+|philip.hawkins@uk...|1211180777472|
+|tracy.cummins@nes...|1211180777473|
+|ghayes@mcwilliams...|1211180777475|
+|enerfax1@bellsout...|1211180777478|
+|traci.warner@enro...|1211180777482|
+|listserv@ablist.a...|1211180777483|
+|spider1735@hotmai...|1219770712067|
+|   truorange@aol.com|1219770712068|
+|     n12377@extra.hu|1228360646656|
+|dana_gibbs@enron.com|1228360646657|
+|    bounces@q.go.com|1228360646658|
+|public.relations@...|1228360646660|
+|showtimes@amazon.com|1236950581248|
+|   mailbot@datek.com|1236950581250|
+|ken.skilling@enro...|1236950581263|
+|strat_alert@hotma...|1236950581264|
+|  yolanda@ccemtl.org|1236950581265|
+|dhutchens@tucsone...|1236950581266|
+|lwbthemarine@bigp...|1245540515840|
+|  pam_macaul@bmc.com|1245540515841|
+| lbarton@hesinet.com|1245540515845|
+|cwpfister@cps-sat...|1245540515847|
+|password@vertical...|1254130450439|
+|domingo.drakes@en...|1254130450440|
+|houstonchronicle-...|1254130450443|
+|   beckyp@bammel.org|1254130450447|
+|    bharsh@puget.com|1254130450449|
+|customerservice@1...|1262720385025|
+|ei_editor@platts.com|1262720385027|
+|kathryn.gonzales@...|1262720385031|
+|barbara.bogenrief...|1262720385034|
+|   ets1@mail.ev1.net|1262720385036|
+| haysletr@txucom.net|1279900254219|
+|inbound-guide.121...|1288490188806|
+| joey.olivier@ac.com|1288490188808|
+|ekrapels@esaibos.com|1288490188809|
+|keith.irani@cgc.e...|1288490188810|
+|davidson@ballards...|1297080123396|
+|  service@etrade.com|1297080123397|
+|newsletters@fanso...|1297080123400|
+|pvillag@columbiae...|1314259992576|
+|kevin-gresham@rel...|1314259992577|
+|   pwilkens@ifdc.org|1314259992585|
+|yahoo-delivers@ya...|1314259992591|
+|  rb112@columbia.edu|1322849927168|
+|  rickya@calpine.com|1322849927172|
+|corporate.benefit...|1322849927174|
+|registrar.isc@enr...|1331439861760|
+|jkriendler@yahoo.com|1331439861761|
+|edelivery@salomon...|1331439861767|
+|    flavin@bipac.org|1331439861770|
+|luxcarts@hawaii.r...|1340029796354|
+|munder.mail.list@...|1340029796357|
+|beverly.beaty@enr...|1348619730948|
+|kim_hanson@enron.net|1357209665542|
+| kytreasurer@aol.com|1357209665543|
+|    darciteo@aol.com|1357209665549|
+|gavin_reichman@ai...|1365799600139|
+|alison_campbell@e...|1374389534721|
+|members@staff.vau...|1374389534729|
+|        mlk@pkns.com|1382979469317|
+|jeff.blaylock_hc@...|1382979469322|
+|faretracker_01305...|1391569403907|
+|owner-eveningmba@...|1391569403908|
+|ecenter@williams.com|1400159338499|
+| claudeman@qwest.net|1400159338501|
+|w.simpson@gcal.ac.uk|1400159338504|
+|press.release@enr...|1434519076867|
+|  kbergman@ercot.com|1434519076874|
+|integrated.soluti...|1434519076878|
+|jennifer.sabine@e...|1443109011462|
+|announcements.enr...|1451698946049|
+|donna.teal@enron.com|1451698946050|
+|   mneeley@caiso.com|1451698946056|
+|  grensheltr@aol.com|1451698946059|
+|   rob.gay@enron.com|1451698946062|
+|enron.announcemen...|1460288880641|
+|cbssportsline.com...|1477468749832|
+|rachel.bonilla-kr...|1477468749834|
+|wsmith@wordsmith.org|1486058684416|
+|announce@highscho...|1494648619015|
+|   bwoertz@caiso.com|1503238553604|
+|wade.wells@enron.com|1503238553608|
+|crcommunications@...|1511828488193|
+|   ccvevents@aol.com|1511828488196|
+|julie@lacimagroup...|1511828488200|
+|  ken.lay-@enron.com|1511828488201|
+|  dmphillips@bpa.gov|1520418422789|
+|doctor@dictionary...|1529008357378|
+|detlef.steuer@uni...|1537598291979|
+|connie.lee@enron.com|1537598291981|
+|info@nationalweld...|1554778161156|
+|office.llc@enron.com|1563368095757|
+|bettye.langham@ex...|1563368095758|
+|fyqukgcivgjfttim@...|1571958030340|
+|infrastructure.ub...|1571958030341|
+|eubusinessweek@eu...|1571958030343|
+|announcements@dat...|1589137899521|
+| pjohara@netzero.net|1589137899531|
+|  byronellis@usa.net|1589137899532|
+|info@highschoolal...|1589137899534|
+|    al@friedwire.com|1589137899536|
+|       jmball@ns.net|1597727834122|
+|robertkean.cr@wor...|1606317768708|
+|ena.relations@enr...|1614907703298|
+|chairman.enron@en...|1614907703305|
+| jr..legal@enron.com|1614907703307|
+|  mcn@prnewswire.com|1640677507073|
+|mfeaster@sewanee.edu|1640677507076|
+|enron.chairman@en...|1649267441666|
+|   ireland@bipac.org|1649267441669|
+|adefelice@ggfcmk.com|1649267441672|
+|aram.sogomonian@p...|1666447310848|
+|      trader@iac.net|1666447310863|
+|etrade@esurvey.0m...|1692217114624|
+|    showard@agsk.com|1692217114625|
+|jerome_alder@dell...|1692217114626|
+|pdavidson@socalga...|1700807049219|
+|     lmrig@qwest.net|1700807049221|
+| losullivan@isda.org|1700807049222|
+|intelhomecomputin...|1709396983815|
++--------------------+-------------+
