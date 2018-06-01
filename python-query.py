@@ -1,4 +1,5 @@
 from graphframes import *
+sc.setCheckpointDir("/user/pnda/checkpoint")
 e = sqlContext.read.parquet("/user/pnda/result/edge")
 v = sqlContext.read.parquet("/user/pnda/result/vertex")
 e.filter("""src='liz.taylor@enron.com'""").show()
