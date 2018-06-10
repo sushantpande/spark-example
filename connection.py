@@ -8,6 +8,8 @@ from pyspark import sql
 
 row = ["df_src", "df_dst", "df_mcount"]
 def get_n_level_connection(root, n, all=False):
+    self_ref = 'dst !="' +  root + '"'
+    e = e_.filter(self_ref)
     df = None
     final_df = None
     for index in range(0, n):
@@ -21,7 +23,6 @@ def get_n_level_connection(root, n, all=False):
            df = e.join(df, df.df_dst == e.src).select("src", "dst", "mcount").distinct()
            df = df.toDF(*row)
            df = df.withColumn("distance", lit(index + 1))
-           df.filter("df_dst='leslie.hansen@enron.com'").show()
            final_df = df.unionAll(final_df).distinct()  
     row_ =  ["src", "dst", "mcount", "distance"]
     return final_df.toDF(*row_)
@@ -36,9 +37,9 @@ sqlContext = sql.SQLContext(sc)
 v = sqlContext.read.parquet("/user/pnda/result/vertex")
 
 #load edges
-e = sqlContext.read.parquet("/user/pnda/result/edge")
+e_ = sqlContext.read.parquet("/user/pnda/result/edge")
 
-eg = e.groupBy("src").count().sort("count", ascending=[0,1]).head(3)
+eg = e_.groupBy("src").count().sort("count", ascending=[0,1]).head(3)
 user_1 = eg[0].src
 user_2 = eg[1].src
 
